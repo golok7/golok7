@@ -6,6 +6,16 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Production+Ready+AI+Applications;LLMs+%7C+RAG+%7C+AI+Agents+%7C+LangGraph;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+Something+New" />
 
+<br>
+
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+    width="700"
+    alt="Coding GIF"
+  />
+</p>
+
 <p align="center">
   <a href="https://github.com/golok7">
     <img src="https://img.shields.io/github/followers/golok7?label=Followers&style=for-the-badge&logo=github"/>
