@@ -20,53 +20,15 @@
 
 # 💫 About Me
 
-🚀 Building **Production-Ready Generative AI Applications** powered by **LLMs, AI Agents, RAG Pipelines, MCP, and Multi-Agent Systems**.
+🚀 GenAI & Full Stack Developer building intelligent, scalable applications with **LLMs, AI Agents, RAG, and modern web technologies.**
 
-💡 Passionate about creating intelligent software that combines **Artificial Intelligence** with **Modern Full Stack Development**.
+🌱 **Learning:** Agentic AI • LangGraph • MCP • Fine-Tuning • AWS • Docker • Kubernetes • MLOps
 
-🌱 Currently learning
+💻 **Stack:** Python • C++ • TypeScript • React • Next.js • Node.js • FastAPI • MongoDB • PostgreSQL
 
-* Agentic AI
-* LangGraph
-* MCP Servers
-* Fine-Tuning LLMs
-* AI Infrastructure
-* Docker
-* Kubernetes
-* AWS
-* MLOps
+🤝 **Interested in:** Open Source • AI Infrastructure • Full Stack SaaS • Developer Tools
 
-💬 Ask me about
-
-* Generative AI
-* AI Agents
-* LangChain
-* LangGraph
-* OpenAI SDK
-* FastAPI
-* React
-* Next.js
-* Node.js
-* Express
-* MongoDB
-* PostgreSQL
-* Python
-* C++
-* JavaScript
-* DSA
-* System Design
-
-🤝 Looking to collaborate on
-
-* Open Source AI Projects
-* AI Agent Frameworks
-* Full Stack SaaS Products
-* Developer Tools
-* LLM Applications
-
-⚡ Fun Fact
-
-> I enjoy turning complex AI ideas into practical production-ready applications.
+⚡ **Mission:** Building AI products that solve real-world problems.
 
 ---
 
