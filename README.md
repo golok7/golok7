@@ -191,7 +191,9 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/golok7/golok7/snake-output/snake.svg" alt="Snake animation"/>
+<img data-importer="snake" src="https://raw.githubusercontent.com/golok7/golok7/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
 </div>
 
