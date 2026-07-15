@@ -60,14 +60,14 @@
 
 # 🚀 Featured Projects
 
-| Project                              | Description                                                   | Tech Stack                          |
-| ------------------------------------ | ------------------------------------------------------------- | ----------------------------------- |
-| **🤖 AI Agents Towards Production**  | Production-ready AI Agent workflows with modern orchestration | LangGraph • OpenAI • Python         |
-| **📊 PlotIQ**                        | AI-powered intelligent plot generation using LLMs             | Python • LangChain                  |
-| **💻 Cohort3.0**                     | Complete Full Stack Development learning repository           | HTML • CSS • JavaScript • MERN      |
-| **🧠 DSA & Competitive Programming** | Data Structures, Algorithms and Interview Preparation         | C++                                 |
-| **🌐 Full Stack Projects**           | Modern web applications and REST APIs                         | React • Next.js • Node.js • Express |
-| **⚡ Upcoming GenAI Projects**        | RAG, MCP, AI Agents, Multi-Agent Systems                      | OpenAI • LangChain • Vector DB      |
+| Project | Description | Tech Stack |
+|---|---|---|
+| **🎯 [CampusConnect AI v2](https://github.com/golok7/CampusConnect-AI-v2)** | AI-powered campus recruitment platform — GitHub-based skill analysis, semantic JD-candidate matching, and NLP resume parsing to rank candidates beyond CGPA | React • Node.js • Express • FastAPI • MongoDB • Voyage AI • Groq LLM • Docker |
+| **🏠 [PlotIQ](https://github.com/golok7/PlotIQ)** | AI real estate platform with semantic property search, OCR/LLM-based legal document analysis, and Ridge regression price intelligence | React • TypeScript • FastAPI • PostgreSQL • pgvector • Redis • Celery • Groq LLM |
+| **✈️ [Passenger Preference Analysis](https://github.com/golok7/Passenger-Preference-Analysis)** | Data analysis of domestic airline passenger preferences, identifying key factors like pricing, scheduling, and service quality | Python • Pandas • Scikit-learn • NLTK • Streamlit • Plotly |
+| **🔐 [Secure API Key Management System](https://github.com/golok7/Secure_API_Key_Management_System)** | RBAC-based key management platform with encrypted key storage, key rotation/revocation, JWT auth, OTP verification, and admin/developer dashboards | Node.js • Express.js • MongoDB • React |
+| **🛰️ UAV Human Detection & Tracking** | Real-time surveillance system with a custom CNN for human detection and centroid-based multi-object tracking | Python • OpenCV • PyTorch • CNN • Computer Vision |
+| **🧮 Quantum-Hybrid Copy-Move Forgery Detection** | Capstone project comparing a frozen ResNet18 + VQC head against param-matched SVM/MLP controls for image forgery detection, with leakage-safe experimental design | Python • PyTorch • Qiskit/Pennylane • Scikit-learn |
 
 ---
 
